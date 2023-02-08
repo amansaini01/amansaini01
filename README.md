@@ -1,5 +1,5 @@
 <h1 align="center">Hii there 👋, I'm Aman Saini</h1>
-<h3 align="center">I am an CSE undergraduate at the Indian Institute of Technology Mandi, India.</h3>
+<h3 align="center">I am a CSE undergraduate at the Indian Institute of Technology Mandi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansaini01&label=Profile%20views&color=0e75b6&style=flat" alt="amansaini01" /> </p>
 
