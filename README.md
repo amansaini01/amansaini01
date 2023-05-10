@@ -18,3 +18,5 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansaini01&show_icons=true&locale=en&layout=compact" alt="amansaini01" /></p>
+
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansaini01)](https://github.com/amansaini01/github-readme-stats)
