@@ -3,8 +3,7 @@
 <h3 align="center">I am an CSE undergraduate at the Indian Institute of Technology Mandi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansaini01&label=Profile%20views&color=0e75b6&style=flat" alt="amansaini01" /> </p>
-[![Github](https://img.shields.io/github/followers/amansaini01?label=Follow&style=social)](https://github.com/amansaini01)
-
+<p align="left"> <img src="https://img.shields.io/github/followers/amansaini01?label=Follow&style=social" alt="amansaini01" /> </p>
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-saini-55a9971a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-saini-55a9971a3" height="30" width="40" /></a>
