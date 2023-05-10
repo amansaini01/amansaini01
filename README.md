@@ -21,4 +21,4 @@
 
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansaini01)](https://github.com/amansaini01/github-readme-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansaini01&hide=javascript,css,scss,html&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansaini01&hide=css&theme=tokyonight)
