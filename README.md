@@ -3,6 +3,7 @@
 <h3 align="center">I am an CSE undergraduate at the Indian Institute of Technology Mandi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansaini01&label=Profile%20views&color=0e75b6&style=flat" alt="amansaini01" /> </p>
+[![Github](https://img.shields.io/github/followers/amansaini01?label=Follow&style=social)](https://github.com/amansaini01)
 
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
